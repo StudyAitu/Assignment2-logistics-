@@ -1,0 +1,47 @@
+===== ROAD_WINDOWS (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): 
+Delivery mode: ROAD
+UI platform: WINDOWS
+Rendering Windows button
+Rendering Windows checkbox
+Truck delivers laboratory equipment to Aktau warehouse
+
+===== SEA_WINDOWS (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): 
+Delivery mode: SEA
+UI platform: WINDOWS
+Rendering Windows button
+Rendering Windows checkbox
+Ship delivers laboratory equipment to Aktau warehouse
+
+===== ROAD_MACOS (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): 
+Delivery mode: ROAD
+UI platform: MACOS
+Rendering macOS button
+Rendering macOS checkbox
+Truck delivers laboratory equipment to Aktau warehouse
+
+===== SEA_MACOS (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): 
+Delivery mode: SEA
+UI platform: MACOS
+Rendering macOS button
+Rendering macOS checkbox
+Ship delivers laboratory equipment to Aktau warehouse
+
+===== INVALID_DELIVERY (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): Unsupported delivery mode: AIR
+
+===== INVALID_PLATFORM (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): UI platform (WINDOWS/MACOS): Unsupported UI platform: LINUX
+
+===== MISSING_INPUT (exit code 0) =====
+=== Logistics Application ===
+Delivery mode (ROAD/SEA): Missing input. Application stopped.
